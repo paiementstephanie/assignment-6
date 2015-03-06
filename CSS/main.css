@@ -66,3 +66,7 @@ div:hover .right{
 	top: 125px;
 	left: 65px;
 }
+
+div:hover .brain{
+	top: 65px;
+}
