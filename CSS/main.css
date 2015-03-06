@@ -20,20 +20,38 @@ h1{
 	color: white;
 	padding: 1em;
 	text-align: center;
+	margin:0em;
+}
+
+div {
+	position: relative;
+	overflow: hidden;
+	width: 320px;
+	margin:0 auto;
 }
 
 .body {
 	width: 320px;
+	display:block;
 }
 
 .brain {
 	width: 46px;
+	position: relative;
+	right: 121px;
+	top: 70px;
 }
 
 .left {
 	width: 125px;
+	position: relative;
+	right: -36px;
+	top: 137px;
 }
 
 .right {
 	width: 125px;
+	position: relative;
+	left: 33px;
+	top:137px;
 }
